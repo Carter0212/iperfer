@@ -5,13 +5,19 @@ NTUST network computer homework1 iperfer is a common tool used to measure networ
 
 操作手冊
 Step 1
+
 依照作業提示執行程式碼(先執行Server再執行Client，如果沒有先)
 使用本地地址當範例
+
 Ex: server:python ./iperifer.py -s -p 2277
     client:python ./iperfer.py -c -h 127.0.0.1 -p 2277 -t 10
+    
 Step 2
+
 等待時間(取決於你輸入的秒數)
+
 Step 3
+
 查看輸出結果
 
 
